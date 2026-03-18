@@ -12,7 +12,7 @@ Dataset
 
 Features:
 * Data preprocessing (handling categorical variables)
-* encoding
+* One-Hot Encoding
 * Model training and evaluation
 * Accuracy, Confusion Matrix, Classification Report
 
