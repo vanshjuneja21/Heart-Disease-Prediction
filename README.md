@@ -5,6 +5,7 @@ This Project predicts whether a person has heart disease using Machine Learning 
 
 Models Used:
 * Logistic Regression
+* Decision Tree Classifier
   
 Dataset
 * UCI Heart Disease Dataset
@@ -16,11 +17,13 @@ Features:
 * Accuracy, Confusion Matrix, Classification Report
 
 Results:
-* Accuracy: 84.8%
-
+* Logistic Regression Accuracy: 84.8%
+* Decision Tree Accuracy: 86.34%
+  
 Key Learnings:
 * Importance of data preprocessing
 * Handling categorical variables
+* Model comparison
 
 Tech Stack:
 * Python
